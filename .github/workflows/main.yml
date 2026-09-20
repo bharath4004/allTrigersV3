@@ -20,4 +20,4 @@ jobs:
         run: python --version
 
       - name: Run Python file
-        run: python your_file.py
+        run: python allTrigersV3updated.py
